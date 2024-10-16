@@ -3,5 +3,5 @@ import matplotlib.pyplot as plt
 plt.hist([11,13,15,16,18,20,22,24,34,45,12,12],bins=4)
 plt.xlabel("Distribution of age",fontsize=16)
 plt.ylabel("Frequency",fontsize=16)
-plt.title("varsha ha 1ki23cs176")
+plt.title("varsha ha 1ki23cs175")
 plt.show()
